@@ -4,4 +4,17 @@
 
 .searchBar{
     font-size:1.2rem;
+    padding: 0.5rem 1rem;
+}
+
+.search_results{
+    width: 100%;
+}
+
+.search_result{
+    border: 1px solid #EEE;
+    margin: 0.4rem 1rem;
+    padding: 0.4rem;
+    color: #FFFF;
+    background-color: olivedrab;
 }
